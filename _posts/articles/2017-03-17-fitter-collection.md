@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A collection of amplitude analysis fitters
-excerpt: "We are collecting various amplitude analysis software tools in gitub.com/PHASE-network"
+excerpt: "We are collecting various amplitude analysis software tools in github.com/PHASE-network"
 modified: 2017-03-17T00:00:00-00:00
 categories: articles
 tags: [repos]
