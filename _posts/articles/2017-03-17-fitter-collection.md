@@ -17,12 +17,9 @@ There are many amplitude analysis software packages being developed in the
 various experimental groups. The [PHASE network](https://github.com/PHASE-network)
 provides a collection of freely available fitters.
 
-* <div markdown="0"><a href="https://github.com/PHASE-network/PyPWA" class="btn">PyPWA</a></div>
-a partialwave analysis framework with a python API developed at Jefferson Lab
-* <div markdown="0"><a href="https://github.com/PHASE-network/GooFit" class="btn">GooFit</a></div>
-an amplitude analysis fitter for GPUs
-* <div markdown="0"><a href="https://github.com/PHASE-network/RapidFit" class="btn">RapidFit</a></div>
-a log-likelihood fitter used at LHCb for studies of CP violation and spectroscopy in B decays.
+* [PyPWA](https://github.com/PHASE-network/PyPWA) - a partialwave analysis framework with a python API developed at Jefferson Lab
+* [GooFit](https://github.com/PHASE-network/GooFit) - an amplitude analysis fitter for GPUs
+* [RapidFit](https://github.com/PHASE-network/RapidFit) - a log-likelihood fitter used at LHCb for studies of CP violation and spectroscopy in B decays.
 
 If you want your software to be listed on these pages please open a new issue on
 the [Hadronic Discussions](https://github.com/PHASE-network/HadronicDiscussions/issues).
