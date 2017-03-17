@@ -3,7 +3,7 @@
 title: PHASE - Panel on Hadronic Amplitudes
 locale: en_US
 description: PHASE is an open research community developing advanced hadronic amplitudes.
-logo: 
+logo:
 search: true
 url: https://phase-network.github.io/
 
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Sebastian Neubert
+  avatar:
+  email: se.neubert@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: theneubert
   facebook: #username
-  github: #username
+  github: seneubert
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
